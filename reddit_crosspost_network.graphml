@@ -1,0 +1,3946 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d8" for="edge" attr.name="type" attr.type="string" />
+  <key id="d7" for="node" attr.name="author" attr.type="string" />
+  <key id="d6" for="node" attr.name="title" attr.type="string" />
+  <key id="d5" for="node" attr.name="size" attr.type="long" />
+  <key id="d4" for="node" attr.name="subscribers" attr.type="long" />
+  <key id="d3" for="node" attr.name="dest_count" attr.type="long" />
+  <key id="d2" for="node" attr.name="source_count" attr.type="long" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="sub_transgenderau">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/transgenderau</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_communismo">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/communismo</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_IWW">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/IWW</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+    </node>
+    <node id="sub_lostgeneration">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/lostgeneration</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_DirectAction">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/DirectAction</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Sino">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Sino</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_leftist">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/leftist</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_militant">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/militant</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_theIrishleft">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/theIrishleft</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_bayarea">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/bayarea</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_dsa">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/dsa</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_AutisticUnion">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/AutisticUnion</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_solarpunk">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/solarpunk</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Socialism_101">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Socialism_101</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+    </node>
+    <node id="sub_Leftist_Concepts">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Leftist_Concepts</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_GenZhukov2024">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/GenZhukov2024</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_democrats">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/democrats</data>
+      <data key="d2">5</data>
+      <data key="d3">0</data>
+      <data key="d4">499100</data>
+      <data key="d5">15</data>
+    </node>
+    <node id="sub_BlackRadicalTradition">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/BlackRadicalTradition</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Liberal">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Liberal</data>
+      <data key="d2">0</data>
+      <data key="d3">30</data>
+      <data key="d4">122721</data>
+      <data key="d5">40</data>
+    </node>
+    <node id="sub_WorkersStrikeBack">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/WorkersStrikeBack</data>
+      <data key="d2">4</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">14</data>
+    </node>
+    <node id="sub_TarihiSeyler">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/TarihiSeyler</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_chaoticgood">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/chaoticgood</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Anarchopunks">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Anarchopunks</data>
+      <data key="d2">11</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">21</data>
+    </node>
+    <node id="sub_DemocraticSocialism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/DemocraticSocialism</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_neoliberal">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/neoliberal</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">186235</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_AntifascistsofReddit">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/AntifascistsofReddit</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_angryeducationworkers">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/angryeducationworkers</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_anarchocommunism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/anarchocommunism</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_Ohio">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Ohio</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_BreadTube">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/BreadTube</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_InternationalNews">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/InternationalNews</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Futurology">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Futurology</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Republican">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Republican</data>
+      <data key="d2">0</data>
+      <data key="d3">1</data>
+      <data key="d4">210930</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_CanadianAnarchism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/CanadianAnarchism</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+    </node>
+    <node id="sub_socialism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/socialism</data>
+      <data key="d2">0</data>
+      <data key="d3">72</data>
+      <data key="d4">467052</data>
+      <data key="d5">82</data>
+    </node>
+    <node id="sub_lgbt">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/lgbt</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+    </node>
+    <node id="sub_IrishAnarchists">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/IrishAnarchists</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_YouthRights">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/YouthRights</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_TheDeprogram">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/TheDeprogram</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_GeorgeCarlin">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/GeorgeCarlin</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_MadLiberationFront">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/MadLiberationFront</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_LateStageCapitalism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/LateStageCapitalism</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_behindthebastards">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/behindthebastards</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_WitchesVsPatriarchy">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/WitchesVsPatriarchy</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_MapPorn">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/MapPorn</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_BlackAllianceforPeace">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/BlackAllianceforPeace</data>
+      <data key="d2">5</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">15</data>
+    </node>
+    <node id="sub_TimWalz">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/TimWalz</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_MarxistCulture">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/MarxistCulture</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+    </node>
+    <node id="sub_nba">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/nba</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_FreeLuigi">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/FreeLuigi</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_todayilearned">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/todayilearned</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Britain">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Britain</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_canadaleft">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/canadaleft</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_IronFrontUSA">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/IronFrontUSA</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Yemen">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Yemen</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_RadicalFeminism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/RadicalFeminism</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Communalists">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Communalists</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_LandlordLove">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/LandlordLove</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_SomaliSocialism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/SomaliSocialism</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_50501">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/50501</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_interestingasfuck">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/interestingasfuck</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_LibertarianLeft">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/LibertarianLeft</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Queerdefensefront">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Queerdefensefront</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Conservative">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Conservative</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">1200167</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_chomsky">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/chomsky</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_InformedTankie">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/InformedTankie</data>
+      <data key="d2">4</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">14</data>
+    </node>
+    <node id="sub_technology">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/technology</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_PunkMemes">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/PunkMemes</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_mildlyinfuriating">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/mildlyinfuriating</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Anarchism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Anarchism</data>
+      <data key="d2">0</data>
+      <data key="d3">133</data>
+      <data key="d4">275979</data>
+      <data key="d5">143</data>
+    </node>
+    <node id="sub_news">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/news</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_illinois">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/illinois</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_u_VoluntaryViola">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/u_VoluntaryViola</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_fight_disinformation">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/fight_disinformation</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_LeopardsAteMyFace">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/LeopardsAteMyFace</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_SocialistRA">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/SocialistRA</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_markkelly">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/markkelly</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+    </node>
+    <node id="sub_pics">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/pics</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_kolkata">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/kolkata</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_politics">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/politics</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">8740825</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_nextfuckinglevel">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/nextfuckinglevel</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_prochoice">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/prochoice</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_anarchafeminism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/anarchafeminism</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_worldnews">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/worldnews</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_NewsHub">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/NewsHub</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_abolishwhiteness">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/abolishwhiteness</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_CommunalistLibrary">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/CommunalistLibrary</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_CrimethInc">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/CrimethInc</data>
+      <data key="d2">57</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">67</data>
+    </node>
+    <node id="sub_suppressed_news">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/suppressed_news</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+    </node>
+    <node id="sub_communism101">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/communism101</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Situationism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Situationism</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_texas">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/texas</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_KamalaHarris">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/KamalaHarris</data>
+      <data key="d2">20</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">30</data>
+    </node>
+    <node id="sub_ireland">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/ireland</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Palestine">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Palestine</data>
+      <data key="d2">3</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">13</data>
+    </node>
+    <node id="sub_IsraelCrimes">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/IsraelCrimes</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Anticonsumption">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Anticonsumption</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Syndicalism">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Syndicalism</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_de_YIMBY">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/de_YIMBY</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Anarchy101">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Anarchy101</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="sub_IWWeducationworkers">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/IWWeducationworkers</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Truckers">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Truckers</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_poland">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/poland</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_Panarab">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/Panarab</data>
+      <data key="d2">5</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">15</data>
+    </node>
+    <node id="sub_TwoXPreppers">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/TwoXPreppers</data>
+      <data key="d2">1</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="sub_HistoryHub">
+      <data key="d0">subreddit</data>
+      <data key="d1">r/HistoryHub</data>
+      <data key="d2">2</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">12</data>
+    </node>
+    <node id="cp_1hp67n4_1hp67u1">
+      <data key="d0">crosspost</data>
+      <data key="d1">Former U.S. Presiden...</data>
+      <data key="d6">Former U.S. President Jimmy Carter, 100, dies</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hkrkuf_1hkrl04">
+      <data key="d0">crosspost</data>
+      <data key="d1">House Ethics report ...</data>
+      <data key="d6">House Ethics report finds 'substantial evidence' Gaetz violated Florida statutory rape law</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hh0bxf_1hh0c7n">
+      <data key="d0">crosspost</data>
+      <data key="d1">Biden ratchets up AI...</data>
+      <data key="d6">Biden ratchets up AI chip war with China</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gjpewh_1gjpnxd">
+      <data key="d0">crosspost</data>
+      <data key="d1">Your voice is your v...</data>
+      <data key="d6">Your voice is your vote, and your vote is your power</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gg2nds_1gg2nsi">
+      <data key="d0">crosspost</data>
+      <data key="d1">6,000 Las Vegas-area...</data>
+      <data key="d6">6,000 Las Vegas-area voters need to verify their signatures or votes won’t count</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gelfyh_1gelgd4">
+      <data key="d0">crosspost</data>
+      <data key="d1">Californians head to...</data>
+      <data key="d6">Californians head to Nevada and Arizona to knock on doors for Harris</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1g20n6b_1g20oev">
+      <data key="d0">crosspost</data>
+      <data key="d1">Harris releases her ...</data>
+      <data key="d6">Harris releases her medical report to give Trump's health and advanced age new scrutiny; Despite promising to release his medical records, Trump hasn't yet.</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1frphmq_1frphzj">
+      <data key="d0">crosspost</data>
+      <data key="d1">Major Conservative P...</data>
+      <data key="d6">Major Conservative Poll Cited by Media Secretly Worked With Trump Team; Leaked emails reveal the truth about Rasmussen Reports—and the way the Trump campaign is breaking election law.</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1fohdha_1fohfup">
+      <data key="d0">crosspost</data>
+      <data key="d1">Nevadans have cast f...</data>
+      <data key="d6">Nevadans have cast first votes of the 2024 general election; For the first time in history, Native American voters in Nevada cast ballots through the state’s online absentee voting system.</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1fi3642_1fi3is9">
+      <data key="d0">crosspost</data>
+      <data key="d1">The first graders wh...</data>
+      <data key="d6">The first graders who survived Sandy Hook will vote in their first presidential election; "Ehrens, Fischer and two other first grade Sandy Hook survivors who spoke to NBC News said they are hoping to turn the tide by electing Vice President Kamala Harris as president."</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1fef5lt_1fef9wy">
+      <data key="d0">crosspost</data>
+      <data key="d1">Registration Deadlin...</data>
+      <data key="d6">Registration Deadlines and Early Voting Dates by State</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1fe9cjb_1fe9dw5">
+      <data key="d0">crosspost</data>
+      <data key="d1">Everyone Is Saying: ...</data>
+      <data key="d6">Everyone Is Saying: Donald Trump Lost It</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1f93tby_1f95v9x">
+      <data key="d0">crosspost</data>
+      <data key="d1">Harris Wants to Help...</data>
+      <data key="d6">Harris Wants to Help Small Businesses, Trump Screwed Them Over – And His Second Term Would Be Even Worse</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1f85wp7_1f85xeo">
+      <data key="d0">crosspost</data>
+      <data key="d1">Team Harris-Walz Ann...</data>
+      <data key="d6">Team Harris-Walz Announces Record Investments for Down Ballot Democrats</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1f7n9oe_1f7na7x">
+      <data key="d0">crosspost</data>
+      <data key="d1">Statement on Donald ...</data>
+      <data key="d6">Statement on Donald Trump Claiming He Had ‘Every Right’ to Interfere With 2020 Election</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1f5tkyq_1f5tlnm">
+      <data key="d0">crosspost</data>
+      <data key="d1">Harris-Walz Intervie...</data>
+      <data key="d6">Harris-Walz Interview Ratings Nearly Double Trump’s Last Big CNN Sit-Down</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ezh6mt_1ezh6uj">
+      <data key="d0">crosspost</data>
+      <data key="d1">Justice Department a...</data>
+      <data key="d6">Justice Department antitrust suit against RealPage alleges collusion with landlords; The suit alleges the software company colluded with landlords to raise rents.</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ex6nw4_1ex7008">
+      <data key="d0">crosspost</data>
+      <data key="d1">Exclusive: Harris' e...</data>
+      <data key="d6">Exclusive: Harris' election effort raises around $500 million in a month, sources say</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1eosi4o_1eosicj">
+      <data key="d0">crosspost</data>
+      <data key="d1">Harris campaign rall...</data>
+      <data key="d6">Harris campaign rally draws massive crowd of 20,000 in Arizona</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1enze4e_1enzeq5">
+      <data key="d0">crosspost</data>
+      <data key="d1">Tim Walz's approval ...</data>
+      <data key="d6">Tim Walz's approval rating surges as JD Vance's falls</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1eljhxr_1eljjaa">
+      <data key="d0">crosspost</data>
+      <data key="d1">Vice President Harri...</data>
+      <data key="d6">Vice President Harris Announces Tim Walz As Her Running Mate</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1elha8l_1elhblx">
+      <data key="d0">crosspost</data>
+      <data key="d1">Harris tells allies ...</data>
+      <data key="d6">Harris tells allies she has chosen Minnesota Gov. Tim Walz as VP pick</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ek37ss_1ek3aiu">
+      <data key="d0">crosspost</data>
+      <data key="d1">Mark Kelly: Kamala H...</data>
+      <data key="d6">Mark Kelly: Kamala Harris wants to take us into the future by reducing the cost of education and health care so every kid can chase their American dream. The alternative is electing two men who want to take away your freedoms and tell you how to live your lives.</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ei5gka_1ei5inn">
+      <data key="d0">crosspost</data>
+      <data key="d1">Team Harris Raises $...</data>
+      <data key="d6">Team Harris Raises $310 Million in July, Announces $377 Million War Chest</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1eh6waj_1eh6xll">
+      <data key="d0">crosspost</data>
+      <data key="d1">Mark Kelly hits back...</data>
+      <data key="d6">Mark Kelly hits back at Donald Trump for comments on Kamala Harris; "I think those are the comments of a desperate, scared old man, who, over the last week especially, has been having his butt kicked by an experienced prosecutor, and I think he’s worried"</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1efgz98_1efgzzp">
+      <data key="d0">crosspost</data>
+      <data key="d1">Harris Trolls Trump:...</data>
+      <data key="d6">Harris Trolls Trump: I’ll Go to Debate Even If You Don’t</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1edf7w4_1edfae8">
+      <data key="d0">crosspost</data>
+      <data key="d1">'Ridiculous and obno...</data>
+      <data key="d6">'Ridiculous and obnoxious and wrong': Mark Kelly blasts JD Vance over 'cat ladies' insult</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ecky9a_1eckyd4">
+      <data key="d0">crosspost</data>
+      <data key="d1">Barack Obama officia...</data>
+      <data key="d6">Barack Obama officially endorses Kamala Harris</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ec98ec_1ec98w5">
+      <data key="d0">crosspost</data>
+      <data key="d1">Donald Trump's gains...</data>
+      <data key="d6">Donald Trump's gains with Black voters have been wiped out</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1eaz76h_1eaz7b7">
+      <data key="d0">crosspost</data>
+      <data key="d1">Kamala Harris’s Hars...</data>
+      <data key="d6">Kamala Harris’s Harsh New Trump Takedown Cleverly Flips Script on GOP</data>
+      <data key="d7">progress18</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iglkrz_1igojfi">
+      <data key="d0">crosspost</data>
+      <data key="d1">Germans Can’t Afford...</data>
+      <data key="d6">Germans Can’t Afford Their Gold-Plated Homes</data>
+      <data key="d7">filipe_mdsr</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iid5gr_1iidl29">
+      <data key="d0">crosspost</data>
+      <data key="d1">Reddit Takes Turn To...</data>
+      <data key="d6">Reddit Takes Turn Toward Violent Extremism</data>
+      <data key="d7">Jibrish</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iqf89i_1ir6wdi">
+      <data key="d0">crosspost</data>
+      <data key="d1">Unionization and the...</data>
+      <data key="d6">Unionization and the Fight Against Trump Starts with a Break from the Democrats</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iq0znv_1iq4vln">
+      <data key="d0">crosspost</data>
+      <data key="d1">People seem to be ve...</data>
+      <data key="d6">People seem to be very close to getting it but miss the point of why capitalists like Elon want to maintain this system using the surplus generated by working class. Elon uses this surplus to fund campaigns and take over governments instead of using it to better the world.</data>
+      <data key="d7">NewEraSom</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iq0i5m_1iq0lqc">
+      <data key="d0">crosspost</data>
+      <data key="d1">References to transg...</data>
+      <data key="d6">References to transgender and queer removed from Stonewall National Monument's web page #lgbtqia</data>
+      <data key="d7">Mysterious-Ring-2352</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ipeqx7_1ipyj80">
+      <data key="d0">crosspost</data>
+      <data key="d1">Bodycam footage of L...</data>
+      <data key="d6">Bodycam footage of Lincoln Heights residents confronting Nazis in Cincinnati, Ohio.</data>
+      <data key="d7">anohioanredditer</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ipj7z3_1ipjymw">
+      <data key="d0">crosspost</data>
+      <data key="d1">Interview: Communist...</data>
+      <data key="d6">Interview: Communists In UPS Teamsters - How Should Leftists Organize In The Unions?</data>
+      <data key="d7">NoAcanthisitta3968</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iob4hn_1iokyca">
+      <data key="d0">crosspost</data>
+      <data key="d1">DeepSeek’s rise show...</data>
+      <data key="d6">DeepSeek’s rise shows why China’s top AI talent is skipping Silicon Valley</data>
+      <data key="d7">Mysterious-Ring-2352</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iodpo7_1iodrfc">
+      <data key="d0">crosspost</data>
+      <data key="d1">Children in South Ye...</data>
+      <data key="d6">Children in South Yemen raising portraits of Salemin and Mao Zedong—Salemin, the only Maoist President in Arab history, is often credited with building South Yemen and is compared with the North's Ibrahim al-Hamdi</data>
+      <data key="d7">Educational_Trade235</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1inqlor_1inqmmh">
+      <data key="d0">crosspost</data>
+      <data key="d1">The new music video ...</data>
+      <data key="d6">The new music video from Macklemore goes hard</data>
+      <data key="d7">ismail_the_whale</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1inhrpw_1inhssa">
+      <data key="d0">crosspost</data>
+      <data key="d1">Why the Gaza ceasefi...</data>
+      <data key="d6">Why the Gaza ceasefire is in jeopardy</data>
+      <data key="d7">speakhyroglyphically</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1in1lqr_1in1vhq">
+      <data key="d0">crosspost</data>
+      <data key="d1">Good Morning Revolut...</data>
+      <data key="d6">Good Morning Revolution: How to Stop a Coup</data>
+      <data key="d7">Mysterious-Ring-2352</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1imxs0m_1imxwv0">
+      <data key="d0">crosspost</data>
+      <data key="d1">Nationwide uprising ...</data>
+      <data key="d6">Nationwide uprising demands an end to Musk coup</data>
+      <data key="d7">Mysterious-Ring-2352</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1im6m78_1im6mdh">
+      <data key="d0">crosspost</data>
+      <data key="d1">Europe’s major AI st...</data>
+      <data key="d6">Europe’s major AI startups, Mistral and Helsing, form pact to apply artificial intelligence technology to warfare.</data>
+      <data key="d7">padraigd</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1im4ctp_1im4g3m">
+      <data key="d0">crosspost</data>
+      <data key="d1">The end of globaliza...</data>
+      <data key="d6">The end of globalization? Trump’s tariff war and the battle for capitalism’s future</data>
+      <data key="d7">Mysterious-Ring-2352</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ikv97k_1ikxzwd">
+      <data key="d0">crosspost</data>
+      <data key="d1">No NLRB? No Problem</data>
+      <data key="d6">No NLRB? No Problem</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ikgl6i_1ikhzb3">
+      <data key="d0">crosspost</data>
+      <data key="d1">Yemeni AA leader: "T...</data>
+      <data key="d6">Yemeni AA leader: "The problem is that UK &amp;amp; USA support radical Islamic movements. They weaponized these radicals against Arab leftist movements &amp;amp; countries that historically stood with Palestine... The US is the force that controls radicalism whether it be ISIS or Al Qaeda."</data>
+      <data key="d7">isawasin</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1f86wqk_1ijk140">
+      <data key="d0">crosspost</data>
+      <data key="d1">A photograph of Pale...</data>
+      <data key="d6">A photograph of Palestinian elderly sitting in front of a mural on a wall in al-Aroub Palestinian refugee camp, between the West Bank cities of Betlehem and al-Khalil (Hebron), back in 2019. Photo by Hazem Bader via GettyImages</data>
+      <data key="d7">hunegypt</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iifo0g_1iifo7n">
+      <data key="d0">crosspost</data>
+      <data key="d1">Black Alliance for P...</data>
+      <data key="d6">Black Alliance for Peace Condemns Trump’s Declaration of War on Palestine</data>
+      <data key="d7">ModernJazz-2K20</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iia4zo_1iia97v">
+      <data key="d0">crosspost</data>
+      <data key="d1">Marxist Political Ec...</data>
+      <data key="d6">Marxist Political Economy Part I: Commodity Production and Capitalist Exploitation</data>
+      <data key="d7">Mysterious-Ring-2352</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ig9ifi_1igwuci">
+      <data key="d0">crosspost</data>
+      <data key="d1">Upcoming workplace c...</data>
+      <data key="d6">Upcoming workplace control and resistance workshop in Washington, DC</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1igt5jl_1igu92g">
+      <data key="d0">crosspost</data>
+      <data key="d1">Why China is not a c...</data>
+      <data key="d6">Why China is not a capitalist country</data>
+      <data key="d7">CulturalMarxist123</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ifywrl_1ig6yjl">
+      <data key="d0">crosspost</data>
+      <data key="d1">Researchers watched ...</data>
+      <data key="d6">Researchers watched an incel forum for 18 months and here is what they found</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ifo8my_1ifotf9">
+      <data key="d0">crosspost</data>
+      <data key="d1">Far right ideologist...</data>
+      <data key="d6">Far right ideologist Yarvin's plans to overthrow the US and turn it into an autocracy is already in motion</data>
+      <data key="d7">-Konrad-</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_15dewia_1ifc2it">
+      <data key="d0">crosspost</data>
+      <data key="d1">What is the socialis...</data>
+      <data key="d6">What is the socialist view of the Iranian Revolution?</data>
+      <data key="d7">Weak_Suggestion_1154</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1if6ap6_1if6x3q">
+      <data key="d0">crosspost</data>
+      <data key="d1">Join Lemmygrad, I gu...</data>
+      <data key="d6">Join Lemmygrad, I guess (and: a bunch of other resources out there that may be of interest to you)</data>
+      <data key="d7">Mysterious-Ring-2352</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iep63t_1iep6ki">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Black Alliance f...</data>
+      <data key="d6">The Black Alliance for Peace: U.S.-led Imperialism Is Directly Responsible for Turmoil in the Democratic Republic of Congo</data>
+      <data key="d7">ModernJazz-2K20</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iej5ut_1iektqk">
+      <data key="d0">crosspost</data>
+      <data key="d1">Merz’s gamble to acc...</data>
+      <data key="d6">Merz’s gamble to accept far-right support fails in German parliament</data>
+      <data key="d7">isawasin</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ie7udi_1ie8giv">
+      <data key="d0">crosspost</data>
+      <data key="d1">I do wish he'd spit ...</data>
+      <data key="d6">I do wish he'd spit some theory, but who am I to quibble? Welcome home, comrade!</data>
+      <data key="d7">isawasin</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1idnnfp_1ids7jr">
+      <data key="d0">crosspost</data>
+      <data key="d1">More people need to ...</data>
+      <data key="d6">More people need to do this. Chilean guy confronts 'Israeli' war criminals on holiday in Pucón.</data>
+      <data key="d7">SittingTonka</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1icweio_1id718c">
+      <data key="d0">crosspost</data>
+      <data key="d1">Trump set to sign or...</data>
+      <data key="d6">Trump set to sign order instructing federal agencies to "combat antisemitism," which may include deporting anti-zionist activists.</data>
+      <data key="d7">SittingTonka</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1id35zh_1id6kks">
+      <data key="d0">crosspost</data>
+      <data key="d1">Calvin Robinson fini...</data>
+      <data key="d6">Calvin Robinson finished his remarks at the National Pro-Life Summit by throwing a Nazi salute, much to the delight of the crowd.</data>
+      <data key="d7">ImABadSport</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1icb9cm_1iclz0k">
+      <data key="d0">crosspost</data>
+      <data key="d1">🚨 U.S. COMRADES, GET...</data>
+      <data key="d6">🚨 U.S. COMRADES, GET INTO THE STRUGGLE NOW! 🚨</data>
+      <data key="d7">Shaposhnikovsky227</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1icfub8_1icldrg">
+      <data key="d0">crosspost</data>
+      <data key="d1">“We are headed towar...</data>
+      <data key="d6">“We are headed towards a full on recession.” -TX Rep. Jasmine Crockett</data>
+      <data key="d7">MadamXY</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1icaq6n_1icbf65">
+      <data key="d0">crosspost</data>
+      <data key="d1">Despite the ceasefir...</data>
+      <data key="d6">Despite the ceasefire, 'Israel' just bombed Nabatiyeh Al-Fawqa town in southern Lebanon, 14 injuries reported so far.</data>
+      <data key="d7">SittingTonka</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ic649h_1ic650z">
+      <data key="d0">crosspost</data>
+      <data key="d1">Here’s Sabotabby!</data>
+      <data key="d6">Here’s Sabotabby!</data>
+      <data key="d7">Striking-Watch</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ic5zlu_1ic608w">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Black Alliance f...</data>
+      <data key="d6">The Black Alliance for Peace Welcomes the Release of Leonard Peltier and Demands Unrestricted Release of all U.S. Political Prisoners</data>
+      <data key="d7">ModernJazz-2K20</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ibdrzn_1ibexnw">
+      <data key="d0">crosspost</data>
+      <data key="d1">not a meme from r/wi...</data>
+      <data key="d6">not a meme from r/witchesvsthepatriarchy, hope this is helpful</data>
+      <data key="d7">Striking-Watch</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iao089_1iapswb">
+      <data key="d0">crosspost</data>
+      <data key="d1">How does designating...</data>
+      <data key="d6">How does designating cartels as terrorist groups benefit the imperialist wants of America? I want a leftist take on this</data>
+      <data key="d7">Revolutionary_Way898</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i97d54_1i97ewg">
+      <data key="d0">crosspost</data>
+      <data key="d1">35th Annual Holiday ...</data>
+      <data key="d6">35th Annual Holiday Appeal for Class-War Prisoners</data>
+      <data key="d7">codfishcakes</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i8g67n_1i8gcrf">
+      <data key="d0">crosspost</data>
+      <data key="d1">✊🏽🚪 Don’t let Trump ...</data>
+      <data key="d6">✊🏽🚪 Don’t let Trump and ICE win without a fight! Papers or not, everyone has certain rights they can use when an agent is trying to deport them. We are workers with dignity and we deserve to stay where we are.</data>
+      <data key="d7">Prudent_Bug_1350</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i7eawj_1i7m6hu">
+      <data key="d0">crosspost</data>
+      <data key="d1">Dr. Seuss comics fro...</data>
+      <data key="d6">Dr. Seuss comics from WW2 becoming more relevant every day</data>
+      <data key="d7">Ornery_Character_657</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i5q3k9_1i777ug">
+      <data key="d0">crosspost</data>
+      <data key="d1">The flag of the Bols...</data>
+      <data key="d6">The flag of the Bolshevist Bashkir Turks,  who fought against the White Army in 1919, has “Poors of the world, unite!” written at the top and “The Workers of Bashkortostan’ at the bottom.</data>
+      <data key="d7">KimKitsuragii</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1529kvs_1i6uwof">
+      <data key="d0">crosspost</data>
+      <data key="d1">This is more relevan...</data>
+      <data key="d6">This is more relevant in the last couple days then it has been in decades</data>
+      <data key="d7">Ornery_Character_657</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i60n4l_1i60tfq">
+      <data key="d0">crosspost</data>
+      <data key="d1">Elon Musk does extre...</data>
+      <data key="d6">Elon Musk does extremist Nazi salute</data>
+      <data key="d7">rosemaryrouge</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i5yvnz_1i5z0nc">
+      <data key="d0">crosspost</data>
+      <data key="d1">Combating Imperialis...</data>
+      <data key="d6">Combating Imperialism, Defending Sovereignty: Zone of Peace in Haiti and the Americas | Black Alliance for Peace</data>
+      <data key="d7">ModernJazz-2K20</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i4uqix_1i5nz3k">
+      <data key="d0">crosspost</data>
+      <data key="d1">Greta Thunberg said ...</data>
+      <data key="d6">Greta Thunberg said on being criticized for standing up to Gaza and Palestine: “You have to be morally consistent in what you stand up for”. </data>
+      <data key="d7">hunegypt</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i4m19k_1i4m1dk">
+      <data key="d0">crosspost</data>
+      <data key="d1">70% of China’s Mille...</data>
+      <data key="d6">70% of China’s Millennials Are Homeowners, Canadians and Americans…Not So Lucky</data>
+      <data key="d7">yogthos</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i48ck7_1i4blv6">
+      <data key="d0">crosspost</data>
+      <data key="d1">Art in socialist cou...</data>
+      <data key="d6">Art in socialist countries? </data>
+      <data key="d7">lumine2669</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i2oxzm_1i2oynz">
+      <data key="d0">crosspost</data>
+      <data key="d1">Los Angeles Fires: T...</data>
+      <data key="d6">Los Angeles Fires: The Santa Ana Blowback of Capitalist Climate Change Neglect | The Black Alliance for Peace</data>
+      <data key="d7">ModernJazz-2K20</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i2e9km_1i2isq5">
+      <data key="d0">crosspost</data>
+      <data key="d1">Libs getting mad tha...</data>
+      <data key="d6">Libs getting mad that they lost because of Gaza, if only there was something they could’ve done to prevent this.</data>
+      <data key="d7">bigboipapawiththesos</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h5uksv_1i1to97">
+      <data key="d0">crosspost</data>
+      <data key="d1">"Liberation" </data>
+      <data key="d6">"Liberation" </data>
+      <data key="d7">Swimming-Purchase-88</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i1adrm_1i1col5">
+      <data key="d0">crosspost</data>
+      <data key="d1">A protester disrupte...</data>
+      <data key="d6">A protester disrupted US Secretary of State Blinken’s speech at the Atlantic Council, holding him responsible for the killing of civilians in Gaza and describing him as “Bloody Blinken, Secretary of Genocide.”</data>
+      <data key="d7">hunegypt</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i0kxji_1i10a6k">
+      <data key="d0">crosspost</data>
+      <data key="d1">Footage of German po...</data>
+      <data key="d6">Footage of German police assaulting a pro-Palestinian protester in Berlin </data>
+      <data key="d7">hunegypt</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i0q0jf_1i0qri5">
+      <data key="d0">crosspost</data>
+      <data key="d1">Ink drawings by Khol...</data>
+      <data key="d6">Ink drawings by Kholoud Hammad a Palestinian artist living in northern Gaza</data>
+      <data key="d7">Lilyo</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hzzp5q_1hzzv89">
+      <data key="d0">crosspost</data>
+      <data key="d1">What are your though...</data>
+      <data key="d6">What are your thoughts on the Colombian conflict? (FARC, ELN. etc.)</data>
+      <data key="d7">jmac_1604</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hzvqbn_1hzvsvv">
+      <data key="d0">crosspost</data>
+      <data key="d1">Thousands of communi...</data>
+      <data key="d6">Thousands of communists and socialists participated in this year’s massive “Luxemburg Liebknecht Lenin” (LLL) protest in Berlin</data>
+      <data key="d7">CulturalMarxist123</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hyu534_1hzhy7n">
+      <data key="d0">crosspost</data>
+      <data key="d1">The history of Coca ...</data>
+      <data key="d6">The history of Coca Cola and the reason why we should boycott it: </data>
+      <data key="d7">hunegypt</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hz9uj4_1hza0iv">
+      <data key="d0">crosspost</data>
+      <data key="d1">UN votes on the nece...</data>
+      <data key="d6">UN votes on the necessity of ending the US embargo against Cuba since 1992</data>
+      <data key="d7">Flagmaker123</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hwur17_1hz2dqr">
+      <data key="d0">crosspost</data>
+      <data key="d1">Sabotage the Cat</data>
+      <data key="d6">Sabotage the Cat</data>
+      <data key="d7">Striking-Watch</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hwonkq_1hyks58">
+      <data key="d0">crosspost</data>
+      <data key="d1">Communism: The real ...</data>
+      <data key="d6">Communism: The real movement to abolish disability</data>
+      <data key="d7">Agrarian_1917</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hylddx_1hymzi1">
+      <data key="d0">crosspost</data>
+      <data key="d1">Feels like some cons...</data>
+      <data key="d6">Feels like some consent is trying to be manufactured</data>
+      <data key="d7">secondrunnerup</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hy7ay2_1hybv76">
+      <data key="d0">crosspost</data>
+      <data key="d1">Another year, anothe...</data>
+      <data key="d6">Another year, another coup! US announces $25m reward for arrest of Venezuela's President Maduro</data>
+      <data key="d7">VuDuBaBy</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hwqufj_1hy5sl0">
+      <data key="d0">crosspost</data>
+      <data key="d1">President condemns N...</data>
+      <data key="d6">President condemns Nato and escalating global military spending when number affected by hunger has risen by 200 million</data>
+      <data key="d7">padraigd</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hxelax_1hy14lm">
+      <data key="d0">crosspost</data>
+      <data key="d1">Ellen Coyne: Left-wi...</data>
+      <data key="d6">Ellen Coyne: Left-wing politicians should beware of backing Sinn Féin at any cost</data>
+      <data key="d7">padraigd</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hxrk6j_1hxymja">
+      <data key="d0">crosspost</data>
+      <data key="d1">There must be missin...</data>
+      <data key="d6">There must be missing context here, correct? Expenses not taken into consideration (healthcare, cost of living, various insurance, drug costs, etc). I’ve read that 65% of Americans live paycheck to paycheck and that a significant number hold medical debt over $10k. Help me wrap my head around this. </data>
+      <data key="d7">awesometotallydude</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hxhzw9_1hxi0rk">
+      <data key="d0">crosspost</data>
+      <data key="d1">Los Angeles Fires: T...</data>
+      <data key="d6">Los Angeles Fires: The Santa Ana Blowback of Capitalist Climate Change Neglect | The Black Alliance for Peace</data>
+      <data key="d7">ModernJazz-2K20</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1f86wqk_1hwe1zk">
+      <data key="d0">crosspost</data>
+      <data key="d1">A photograph of Pale...</data>
+      <data key="d6">A photograph of Palestinian elderly sitting in front of a mural on a wall in al-Aroub Palestinian refugee camp, between the West Bank cities of Betlehem and al-Khalil (Hebron), back in 2019. Photo by Hazem Bader via GettyImages</data>
+      <data key="d7">hunegypt</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hw382m_1hw43h5">
+      <data key="d0">crosspost</data>
+      <data key="d1">Dwight Howard: ‘I tw...</data>
+      <data key="d6">Dwight Howard: ‘I tweeted Free Palestine. Less than 10 minutes later, I got a call from the NBA commissioner’</data>
+      <data key="d7">zingis75</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hstcl5_1ht4u1r">
+      <data key="d0">crosspost</data>
+      <data key="d1">A reminder that PG&amp;a...</data>
+      <data key="d6">A reminder that PG&amp;amp;E poisoned a whole community after contaminating their groundwater with chromium.</data>
+      <data key="d7">Bolinas99</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hst4iu_1hst54f">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Liberal Siren So...</data>
+      <data key="d6">The Liberal Siren Song</data>
+      <data key="d7">yogthos</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hs00eo_1hs1jld">
+      <data key="d0">crosspost</data>
+      <data key="d1">An essay series abou...</data>
+      <data key="d6">An essay series about the role of greenwashing in maintaining global capitalism</data>
+      <data key="d7">Here-Together</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hpnfx2_1hptbo9">
+      <data key="d0">crosspost</data>
+      <data key="d1">Everything wrong wit...</data>
+      <data key="d6">Everything wrong with the Political Compass (revolutionaryth0t)</data>
+      <data key="d7">MLPorsche</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hpd7b0_1hple66">
+      <data key="d0">crosspost</data>
+      <data key="d1">No rest (in peace) f...</data>
+      <data key="d6">No rest (in peace) for the wicked</data>
+      <data key="d7">isawasin</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1irrbvc_1irrceg">
+      <data key="d0">crosspost</data>
+      <data key="d1">"WTF is Social Ecolo...</data>
+      <data key="d6">"WTF is Social Ecology?" by Usufruct Collective</data>
+      <data key="d7">NewMunicipalAgenda</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1irnx25_1irnxvd">
+      <data key="d0">crosspost</data>
+      <data key="d1">WE DONT WANT YOUR FU...</data>
+      <data key="d6">WE DONT WANT YOUR FUCKING WAR</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ir8x47_1irge0r">
+      <data key="d0">crosspost</data>
+      <data key="d1">Counter Protest TERF...</data>
+      <data key="d6">Counter Protest TERFS in Brisbane QLD 10am 23rd February</data>
+      <data key="d7">Intanetwaifuu</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1irhy9j_1irhyik">
+      <data key="d0">crosspost</data>
+      <data key="d1">For Presidents Day, ...</data>
+      <data key="d6">For Presidents Day, rather than celebrating George Washington, we invite you to learn about how the people that he enslaved or indentured sought to escape from captivity, and about the Native Americans who defended themselves against his attacks.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ir7d17_1ir7d7c">
+      <data key="d0">crosspost</data>
+      <data key="d1">Punk as an Example o...</data>
+      <data key="d6">Punk as an Example of Anarchist Approaches to Education</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iqcolp_1iqj3pa">
+      <data key="d0">crosspost</data>
+      <data key="d1">In light of Trump’s ...</data>
+      <data key="d6">In light of Trump’s recent tweet…</data>
+      <data key="d7">campbellscrambles</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iqcs6e_1iqctnj">
+      <data key="d0">crosspost</data>
+      <data key="d1">It's foolish to thin...</data>
+      <data key="d6">It's foolish to think you can wait out the Trump administration. Trump seeks autocratic power. He won't be satisfied with minor concessions. He will take everything he can. If you do not fight now, you will have to fight later, when he has accumulated more power and you are in a weaker position.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ipihia_1ipil6m">
+      <data key="d0">crosspost</data>
+      <data key="d1">This Valentine's Day...</data>
+      <data key="d6">This Valentine's Day, say it with barricades</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ip61z2_1ip94n5">
+      <data key="d0">crosspost</data>
+      <data key="d1">Beyond Guilt &amp;amp; P...</data>
+      <data key="d6">Beyond Guilt &amp;amp; Privilege: Abolishing the White Race</data>
+      <data key="d7">anarcho-slut</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ip2fhd_1ip2foo">
+      <data key="d0">crosspost</data>
+      <data key="d1">Depose Trump /// Dep...</data>
+      <data key="d6">Depose Trump /// Depose Musk</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iooxe1_1iooxrb">
+      <data key="d0">crosspost</data>
+      <data key="d1">Errico Malatesta Quo...</data>
+      <data key="d6">Errico Malatesta Quote</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1io43tl_1iokkxo">
+      <data key="d0">crosspost</data>
+      <data key="d1">⭐️Update About Mad P...</data>
+      <data key="d6">⭐️Update About Mad Pride⭐️</data>
+      <data key="d7">ArielofBlueSkies</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1inzhde_1iohob9">
+      <data key="d0">crosspost</data>
+      <data key="d1">[Debate] Clarifying ...</data>
+      <data key="d6">[Debate] Clarifying Especifismo: A Response to DSA-LSC's 'Letter to the Libertarian Left'</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iof2ku_1iof2q1">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Students Walk Ou...</data>
+      <data key="d6">The Students Walk Out in Los Angeles: A Report from the Streets</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1inm7mf_1inpa41">
+      <data key="d0">crosspost</data>
+      <data key="d1">HOW TO ORGANIZE YOUR...</data>
+      <data key="d6">HOW TO ORGANIZE YOUR COMMUNITY</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1incpw7_1incq5t">
+      <data key="d0">crosspost</data>
+      <data key="d1">Eight Things You Can...</data>
+      <data key="d6">Eight Things You Can Do to Stop ICE</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1imroog_1imrp35">
+      <data key="d0">crosspost</data>
+      <data key="d1">Over thirty years of...</data>
+      <data key="d6">Over thirty years of movement history, analysis, strategy, philosophy, and arts from all around the world are archived on crimethinc.com for the benefit of the general public.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1imaw84_1imayff">
+      <data key="d0">crosspost</data>
+      <data key="d1">Sabotage</data>
+      <data key="d6">Sabotage</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1im0os4_1im0oz6">
+      <data key="d0">crosspost</data>
+      <data key="d1">People have begun de...</data>
+      <data key="d6">People have begun demonstrating at Tesla outlets against the agenda of Elon Musk and other tech billionaires who are seeking to consolidate power under Donald Trump.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ilknx3_1ilkog9">
+      <data key="d0">crosspost</data>
+      <data key="d1">The classic CrimethI...</data>
+      <data key="d6">The classic CrimethInc. anti-police poster alongside a mosaic portrait of Negro Matapacos, the famous Chilean riot dog, on Alameda in Santiago, Chile in early 2020.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ik4jkq_1ik4key">
+      <data key="d0">crosspost</data>
+      <data key="d1">Reportback on the Ni...</data>
+      <data key="d6">Reportback on the Night Demo at mcgill on February 5th</data>
+      <data key="d7">WildAutonomy</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ijzwso_1ijzxps">
+      <data key="d0">crosspost</data>
+      <data key="d1">Defeat the Fascist S...</data>
+      <data key="d6">Defeat the Fascist Snake</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ijsvkh_1ijsxu4">
+      <data key="d0">crosspost</data>
+      <data key="d1">How popular is anarc...</data>
+      <data key="d6">How popular is anarchism in Malaysia?</data>
+      <data key="d7">SystemicAnarchy</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ijpkmc_1ijpkqk">
+      <data key="d0">crosspost</data>
+      <data key="d1">We've prepared a zin...</data>
+      <data key="d6">We've prepared a zine version of our text "It’s Safer in the Front."</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ij9exh_1ijebav">
+      <data key="d0">crosspost</data>
+      <data key="d1">Some insight into ho...</data>
+      <data key="d6">Some insight into how the USA Feb 5th protests were being organized - "Message from the Mods" of r/50501</data>
+      <data key="d7">am_az_on</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ij8gg1_1ij8kp5">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Fate of Fascists...</data>
+      <data key="d6">The Fate of Fascists (The Hanging of Mussolini's Corpse)</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ihl7a3_1ij57lk">
+      <data key="d0">crosspost</data>
+      <data key="d1">What are your though...</data>
+      <data key="d6">What are your thoughts on Hassan Piker?</data>
+      <data key="d7">Buffaloman2001</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iitwlx_1iitwup">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Day the Émigrés ...</data>
+      <data key="d6">The Day the Émigrés Struck Back: Remembering the General Strike of May Day 2006</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iia63p_1iia6h2">
+      <data key="d0">crosspost</data>
+      <data key="d1">A Forgotten Story Re...</data>
+      <data key="d6">A Forgotten Story Retold</data>
+      <data key="d7">VoluntaryViola</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iifacn_1iifayq">
+      <data key="d0">crosspost</data>
+      <data key="d1">Fascists, follow you...</data>
+      <data key="d6">Fascists, follow your leader</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iglj13_1ii1bcu">
+      <data key="d0">crosspost</data>
+      <data key="d1">Protesting Safely</data>
+      <data key="d6">Protesting Safely</data>
+      <data key="d7">sharpteethx</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ihhwxy_1ihloav">
+      <data key="d0">crosspost</data>
+      <data key="d1">Knowing our history ...</data>
+      <data key="d6">Knowing our history can free us now (read)</data>
+      <data key="d7">ArielofBlueSkies</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ih0rm0_1ih0sbp">
+      <data key="d0">crosspost</data>
+      <data key="d1">All Against Oppressi...</data>
+      <data key="d6">All Against Oppressions</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ih1sut_1ih1ty1">
+      <data key="d0">crosspost</data>
+      <data key="d1">[PDF] Predatory Citi...</data>
+      <data key="d6">[PDF] Predatory Cities by Bernadette Atuahene - Deprived "urban areas where public officials systematically [and illegally] take property from residents" to bolster public funds</data>
+      <data key="d7">Ofishal_Fish</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ih20d5_1ih20h3">
+      <data key="d0">crosspost</data>
+      <data key="d1">Anarchism in America...</data>
+      <data key="d6">Anarchism in America (1983 Documentary)</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ih0rbx_1ih0rjp">
+      <data key="d0">crosspost</data>
+      <data key="d1">You can extinguish t...</data>
+      <data key="d6">You can extinguish tear gas canisters! A how-to guide, including a video.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ignkgk_1igvcqa">
+      <data key="d0">crosspost</data>
+      <data key="d1">ICE stings and searc...</data>
+      <data key="d6">ICE stings and searches at weigh stations.</data>
+      <data key="d7">NoGoodAtIncognito</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1igsd0h_1iguhuk">
+      <data key="d0">crosspost</data>
+      <data key="d1">Let’s Talk About the...</data>
+      <data key="d6">Let’s Talk About the February 5th Protests</data>
+      <data key="d7">transcendent167</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ig6fmz_1igcifc">
+      <data key="d0">crosspost</data>
+      <data key="d1">Regarding the 2/5/25...</data>
+      <data key="d6">Regarding the 2/5/25 protest: it's fishy as hell.</data>
+      <data key="d7">AnarchaMorrigan</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ifptk5_1ig7caw">
+      <data key="d0">crosspost</data>
+      <data key="d1">A Guide to Guides: O...</data>
+      <data key="d6">A Guide to Guides: Over 30 Activist Guides You Might Find Helpful When Opposing the Far Right</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ifzucm_1ifzui3">
+      <data key="d0">crosspost</data>
+      <data key="d1">Nicola Sacco and Bar...</data>
+      <data key="d6">Nicola Sacco and Bartolomeo Vanzetti</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ifli33_1iflih2">
+      <data key="d0">crosspost</data>
+      <data key="d1">The police who attac...</data>
+      <data key="d6">The police who attacked people protesting ICE raids in San Diego, Atlanta, and elsewhere this weekend are the same police that Joe Biden made excuses for and increased funding to. The future will be tyranny or liberation. Let no one imagine that they can sit on the fence.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1idz3vo_1iek5lz">
+      <data key="d0">crosspost</data>
+      <data key="d1">Upcoming AMA With Te...</data>
+      <data key="d6">Upcoming AMA With Tenant Organizer - 1/31/2025 @ 6:00PM EST</data>
+      <data key="d7">AnarchaMorrigan</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ichjmh_1ichjrl">
+      <data key="d0">crosspost</data>
+      <data key="d1">It's Safer in the Fr...</data>
+      <data key="d6">It's Safer in the Front</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ic5i74_1iccyi3">
+      <data key="d0">crosspost</data>
+      <data key="d1">Proton Mail Says It’...</data>
+      <data key="d6">Proton Mail Says It’s “Politically Neutral” While Praising Republican Party</data>
+      <data key="d7">urban_primitive</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ic86tz_1ic879p">
+      <data key="d0">crosspost</data>
+      <data key="d1">Some Emotional Intel...</data>
+      <data key="d6">Some Emotional Intelligence Tips I've Learned that can Help Communities and Organizing</data>
+      <data key="d7">emergy_2477</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1icbbt1_1icbdn1">
+      <data key="d0">crosspost</data>
+      <data key="d1">Thirteen years ago t...</data>
+      <data key="d6">Thirteen years ago today—during a demonstration in Oakland, California, a participant demonstrates the proper meaning of "armchair anarchist." 🏴</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iavyz1_1ibun82">
+      <data key="d0">crosspost</data>
+      <data key="d1">Yes I’ve posted this...</data>
+      <data key="d6">Yes I’ve posted this in multiple subs but it’s because I genuinely think this is relevant to repression of our movements as a whole and if you read my comments under the og post you’ll understand why.</data>
+      <data key="d7">throwaway_acc1312</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ibrxda_1ibsmot">
+      <data key="d0">crosspost</data>
+      <data key="d1">Anarchism, Organizat...</data>
+      <data key="d6">Anarchism, Organization &amp;amp; Management</data>
+      <data key="d7">FoodNotBombsBen</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i93t8s_1ibfs4o">
+      <data key="d0">crosspost</data>
+      <data key="d1">How do we stop feeli...</data>
+      <data key="d6">How do we stop feeling so beaten down and defeated?</data>
+      <data key="d7">rankpapers</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ibdrzn_1ibexwd">
+      <data key="d0">crosspost</data>
+      <data key="d1">not a meme from r/wi...</data>
+      <data key="d6">not a meme from r/witchesvsthepatriarchy, hope this is helpful</data>
+      <data key="d7">Striking-Watch</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ib9wld_1ibbu36">
+      <data key="d0">crosspost</data>
+      <data key="d1">Simple Sabotage</data>
+      <data key="d6">Simple Sabotage</data>
+      <data key="d7">johnsmithoncemore</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1iasdel_1iasdsq">
+      <data key="d0">crosspost</data>
+      <data key="d1">Today, for the seven...</data>
+      <data key="d6">Today, for the seventh time, a fixed electoral process will return the despot Aleksandr Lukashenko to power in Belarus. Last time he held an "election," in 2020, an uprising nearly toppled his government.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i8hro3_1i9xc7s">
+      <data key="d0">crosspost</data>
+      <data key="d1">Join Educators for P...</data>
+      <data key="d6">Join Educators for Palestine (NEA) for a teach-in about labor's role in Boycott, Divest, Sanction</data>
+      <data key="d7">Comrade_Rybin</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i8frfh_1i9mjnn">
+      <data key="d0">crosspost</data>
+      <data key="d1">Google Earth has beg...</data>
+      <data key="d6">Google Earth has begun updating images of Gaza</data>
+      <data key="d7">AmarzzAelin</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i9esja_1i9ess0">
+      <data key="d0">crosspost</data>
+      <data key="d1">If you feel despair,...</data>
+      <data key="d6">If you feel despair, if you feel defeated, if you catch yourself dissociating or focusing on what our oppressors are doing rather than on what you can do yourself—that is territory that the enemy has claimed within you.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i9571e_1i962lc">
+      <data key="d0">crosspost</data>
+      <data key="d1">Anti Trump protests ...</data>
+      <data key="d6">Anti Trump protests around the world. America, the world is watching.</data>
+      <data key="d7">Fire-Haus</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i8h9ok_1i8hbvd">
+      <data key="d0">crosspost</data>
+      <data key="d1">The one and only Sti...</data>
+      <data key="d6">The one and only Stimulator blesses us with an update on his life</data>
+      <data key="d7">WildAutonomy</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i8bffw_1i8bfwb">
+      <data key="d0">crosspost</data>
+      <data key="d1">You may have seen th...</data>
+      <data key="d6">You may have seen this image of Elon Musk's Nazi salute projected onto Tesla's Gigafactory in Berlin . . . But you may not know that last year, anarchists occupied the adjacent forest to block the expansion of the Gigafactory and used direct action to shut down electricity to it.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i7ebov_1i7zqyj">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Great American P...</data>
+      <data key="d6">The Great American Protest</data>
+      <data key="d7">Anarchoprofemes</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i7h7cy_1i7kaeh">
+      <data key="d0">crosspost</data>
+      <data key="d1">You can now report I...</data>
+      <data key="d6">You can now report ICE sightings at /r/LaMigra</data>
+      <data key="d7">[deleted]</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i6csbj_1i6d29h">
+      <data key="d0">crosspost</data>
+      <data key="d1">On the Purpose of Un...</data>
+      <data key="d6">On the Purpose of Unemployment - Michael Parenti</data>
+      <data key="d7">GregGraffin23</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i4asxa_1i4jyve">
+      <data key="d0">crosspost</data>
+      <data key="d1">Moon Walker - Monopo...</data>
+      <data key="d6">Moon Walker - Monopoly Money (Official Music Video) | New Rock Song 2025</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i3x3qq_1i3x3yq">
+      <data key="d0">crosspost</data>
+      <data key="d1">Constellation 2025 P...</data>
+      <data key="d6">Constellation 2025 Presents…</data>
+      <data key="d7">WildAutonomy</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i3lobl_1i3losr">
+      <data key="d0">crosspost</data>
+      <data key="d1">No face No Case</data>
+      <data key="d6">No face No Case</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1i041oh_1i0422x">
+      <data key="d0">crosspost</data>
+      <data key="d1">Yesterday, over 600 ...</data>
+      <data key="d6">Yesterday, over 600 people gathered in Sacramento to participate in a variety of discussions and trainings about community defense. At the same time, 200 gathered in Chicago to prepare to fight mass deportations. Next weekend, gatherings like these will take place all around the US.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hz58n2_1hzazjg">
+      <data key="d0">crosspost</data>
+      <data key="d1">How Hitler Dismantle...</data>
+      <data key="d6">How Hitler Dismantled a Democracy in 53 Days - The Atlantic</data>
+      <data key="d7">AnarchaMorrigan</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hwur17_1hz2dwx">
+      <data key="d0">crosspost</data>
+      <data key="d1">Sabotage the Cat</data>
+      <data key="d6">Sabotage the Cat</data>
+      <data key="d7">Striking-Watch</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hy8z8k_1hya2nf">
+      <data key="d0">crosspost</data>
+      <data key="d1">Anti-Government stre...</data>
+      <data key="d6">Anti-Government street art </data>
+      <data key="d7">rottingbitchh</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hxyr70_1hxyrfk">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Ex-Worker podcas...</data>
+      <data key="d6">The Ex-Worker podcast: Sacrificial Violence and Retribution</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hx7k6h_1hx7kdf">
+      <data key="d0">crosspost</data>
+      <data key="d1">This is a photograph...</data>
+      <data key="d6">This is a photograph of the ruins where Pacific Palisades, one of the wealthier neighborhoods in Los Angeles, used to be. The fire has consumed these houses completely. The climate disaster is proceeding faster than anyone is prepared for.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hwfg33_1hwfk3n">
+      <data key="d0">crosspost</data>
+      <data key="d1">This weekend and nex...</data>
+      <data key="d6">This weekend and next, events will take place around the country in response to the call for Festivals of Resistance before Trump takes power. This is a crucial chance for communities to come together and build skills for collective defense.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hudona_1hvqom6">
+      <data key="d0">crosspost</data>
+      <data key="d1">The unknown revoluti...</data>
+      <data key="d6">The unknown revolution, 1917-1921 - Volin Complete text of Volin's extensive work on the Russian Revolution, its usurping by the Bolsheviks and on …</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1htreh8_1htujg5">
+      <data key="d0">crosspost</data>
+      <data key="d1">A Mole Infiltrated t...</data>
+      <data key="d6">A Mole Infiltrated the Highest Ranks of American Militias. This Is What He Found.</data>
+      <data key="d7">alittlebitgay21</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1htocpc_1htod27">
+      <data key="d0">crosspost</data>
+      <data key="d1">Are there Anarchy “H...</data>
+      <data key="d6">Are there Anarchy “Holidays”?</data>
+      <data key="d7">revolution_resolve</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1ht9mus_1ht9n0x">
+      <data key="d0">crosspost</data>
+      <data key="d1">What's striking abou...</data>
+      <data key="d6">What's striking about the manifesto left by the Trump supporter who shot himself and set his truck on fire outside the Trump hotel in Las Vegas is that the desire to harm others merges with the urge to self-destruction. Arguably, this characterizes millions of Trump supporters.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hrhw54_1hrhwd6">
+      <data key="d0">crosspost</data>
+      <data key="d1">2024: Out of the Fry...</data>
+      <data key="d6">2024: Out of the Frying Pan, into the Fire—The Year in Review</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hqcrq6_1hqcttl">
+      <data key="d0">crosspost</data>
+      <data key="d1">A list of some of th...</data>
+      <data key="d6">A list of some of the events that will take place around the country in the days leading up to the presidential inauguration in connection with the "Festivals of Resistance" call to action.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hoq0sn_1hoq0vh">
+      <data key="d0">crosspost</data>
+      <data key="d1">Displacements and At...</data>
+      <data key="d6">Displacements and Attacks Reach EZLN Support Bases in Pantelhó</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hofnkc_1hoj10a">
+      <data key="d0">crosspost</data>
+      <data key="d1">Remember Their Names...</data>
+      <data key="d6">Remember Their Names Visualization</data>
+      <data key="d7">AF2C</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hmycvz_1hmyd8t">
+      <data key="d0">crosspost</data>
+      <data key="d1">An incomplete roundu...</data>
+      <data key="d6">An incomplete roundup of responses to the shooting of Brian Thompson, the CEO of UnitedHealthcare, and the arrest of Luigi Mangione, the person being charged in connection to it—including graffiti, posters, corporate media interviews, public demonstrations, and more.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hl63vf_1hl6454">
+      <data key="d0">crosspost</data>
+      <data key="d1">Sacrificial Violence...</data>
+      <data key="d6">Sacrificial Violence and Retribution</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hl5n8q_1hl5nn4">
+      <data key="d0">crosspost</data>
+      <data key="d1">Merry Crassmass! :^)</data>
+      <data key="d6">Merry Crassmass! :^)</data>
+      <data key="d7">Paczilla3</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hkuulk_1hkwlab">
+      <data key="d0">crosspost</data>
+      <data key="d1">The plot thickens…. </data>
+      <data key="d6">The plot thickens…. </data>
+      <data key="d7">[deleted]</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hj5neu_1hkaeqs">
+      <data key="d0">crosspost</data>
+      <data key="d1">"You have owners"</data>
+      <data key="d6">"You have owners"</data>
+      <data key="d7">[deleted]</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hjnd33_1hjnvpg">
+      <data key="d0">crosspost</data>
+      <data key="d1">Donald Trump is a wa...</data>
+      <data key="d6">Donald Trump is a war criminal and an enemy of Somalia. His policies in 2017 led to one of the worst bombing in African history. 587 lives were lost because of that bastard. </data>
+      <data key="d7">NewEraSom</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hib4co_1hib5cr">
+      <data key="d0">crosspost</data>
+      <data key="d1">Print Privately: A P...</data>
+      <data key="d6">Print Privately: A Piece of Advice</data>
+      <data key="d7">TheAmericanPericles</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hhsk37_1hhskao">
+      <data key="d0">crosspost</data>
+      <data key="d1">News from the Front:...</data>
+      <data key="d6">News from the Front: The Reflections of a Russian Anarchist in Rojava — A Russian anarchist volunteer speaks on the collapse of the Assad regime, the future of Russia, and the looming threat of a Turkish-backed invasion of northeastern Syria.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hevcos_1hg6j1v">
+      <data key="d0">crosspost</data>
+      <data key="d1">Would you show up to...</data>
+      <data key="d6">Would you show up to protect a transgender teenager from violence?</data>
+      <data key="d7">Intanetwaifuu</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hf5ru3_1hf5s2e">
+      <data key="d0">crosspost</data>
+      <data key="d1">Participants in Crim...</data>
+      <data key="d6">Participants in CrimethInc. projects are collaborating with veterans of other anarchist media platforms on a new podcast, The Beautiful Idea, which will offer reporting and analysis of current events.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hdsksy_1he59o8">
+      <data key="d0">crosspost</data>
+      <data key="d1">No God, no boss, no ...</data>
+      <data key="d6">No God, no boss, no husband: The world’s first anarcha-feminist group</data>
+      <data key="d7">Lotus532</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hdrixo_1he3166">
+      <data key="d0">crosspost</data>
+      <data key="d1">Graffiti found in th...</data>
+      <data key="d6">Graffiti found in the Capitol Hill district of Seattle, Washington. </data>
+      <data key="d7">Smooth_Leopard4725</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hdoho0_1hdw1dq">
+      <data key="d0">crosspost</data>
+      <data key="d1">Another whistleblowe...</data>
+      <data key="d6">Another whistleblower found dead in San Francisco apartment</data>
+      <data key="d7">Smooth_Leopard4725</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hdkxe0_1hdkxlx">
+      <data key="d0">crosspost</data>
+      <data key="d1">Today is the thirtee...</data>
+      <data key="d6">Today is the thirteenth day of the twelfth month of the year—13/12, or ACAB day.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1hc5p1e_1hc5p8m">
+      <data key="d0">crosspost</data>
+      <data key="d1">Resisting Local Auth...</data>
+      <data key="d6">Resisting Local Authoritarianism and Multipolar Imperialisms in Georgia: A Deeper Look into the Protests</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h8vb2o_1haxm6r">
+      <data key="d0">crosspost</data>
+      <data key="d1">Hey all, here's a ca...</data>
+      <data key="d6">Hey all, here's a call out for a new library project, plus a new communalist library sub-reddit</data>
+      <data key="d7">AF2C</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h9ufkq_1ha88y9">
+      <data key="d0">crosspost</data>
+      <data key="d1">A Lab Test That Expe...</data>
+      <data key="d6">A Lab Test That Experts Liken to a Witch Trial Is Helping Send Women to Prison for Murder</data>
+      <data key="d7">AnarchaMorrigan</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h9mgt4_1h9q17y">
+      <data key="d0">crosspost</data>
+      <data key="d1">The first genocide i...</data>
+      <data key="d6">The first genocide in Germany was NOT the Holocaust (Germany's forgotten colonial genocidal past in Namibia)</data>
+      <data key="d7">GregGraffin23</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h8lvcd_1h8v3qp">
+      <data key="d0">crosspost</data>
+      <data key="d1">Anyone ever post the...</data>
+      <data key="d6">Anyone ever post the “SoTS deep dive reading guide”? If not, here it is:</data>
+      <data key="d7">Weekly-Meal-8393</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h7w4y9_1h7w543">
+      <data key="d0">crosspost</data>
+      <data key="d1">Plutocracy has advan...</data>
+      <data key="d6">Plutocracy has advanced so far that one billionaire can singlehandedly buy an election. If we want self-determination, we have to abolish capitalism, the process that concentrates wealth in so few hands.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h6xh6k_1h6xhep">
+      <data key="d0">crosspost</data>
+      <data key="d1">The tireless anarchi...</data>
+      <data key="d6">The tireless anarchist organizer Errico Malatesta was born on this day in 1853. 🏴
+</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h6bpu2_1h6bpxm">
+      <data key="d0">crosspost</data>
+      <data key="d1">Georgia: The Firewor...</data>
+      <data key="d6">Georgia: The Firework Protests</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h5jhsq_1h5jhxd">
+      <data key="d0">crosspost</data>
+      <data key="d1">Festivals of Resista...</data>
+      <data key="d6">Festivals of Resistance: A Call for Gatherings the Weekend Before Trump Takes Office
+</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h5bw89_1h5bwm2">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Syrian Civil War...</data>
+      <data key="d6">The Syrian Civil War Resumes: Perspectives on the Conflict from Western and Northeastern Syria</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h3iwct_1h3iwi9">
+      <data key="d0">crosspost</data>
+      <data key="d1">Seattle WTO 25-Year ...</data>
+      <data key="d6">Seattle WTO 25-Year Anniversary Reading and Viewing List</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h1rrt5_1h1rry7">
+      <data key="d0">crosspost</data>
+      <data key="d1">Today we give thanks...</data>
+      <data key="d6">Today we give thanks for Indigenous resistance all around the world. All of us stand to gain from putting an end to the violence of colonialism.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h1dhlp_1h1dht1">
+      <data key="d0">crosspost</data>
+      <data key="d1">Insurgent Survival: ...</data>
+      <data key="d6">Insurgent Survival: Reflections on the Fight Against Sweeps Targeting the Homeless in Austin, Texas
+</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h0pqiz_1h0pqqe">
+      <data key="d0">crosspost</data>
+      <data key="d1">Strategizing to Stop...</data>
+      <data key="d6">Strategizing to Stop Mass Deportations</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1h01j29_1h01ja5">
+      <data key="d0">crosspost</data>
+      <data key="d1">We've added our Gend...</data>
+      <data key="d6">We've added our Gender Self-Determination sticker to our sticker archive, in case you want to download it to print your own. We've also been sending them out with mailorders!</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gzu3ww_1gzu44b">
+      <data key="d0">crosspost</data>
+      <data key="d1">We've prepared a zin...</data>
+      <data key="d6">We've prepared a zine version of "The Case for Resistance," exploring what we can expect from Donald Trump’s second term and how we can prepare to confront it.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gyn3m4_1gynws0">
+      <data key="d0">crosspost</data>
+      <data key="d1">Demand Sharing</data>
+      <data key="d6">Demand Sharing</data>
+      <data key="d7">HeavenlyPossum</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gxt6bh_1gxt6h4">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Ex-Worker podcas...</data>
+      <data key="d6">The Ex-Worker podcast, episode #108: The Case for Resistance</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gwnxpx_1gwyv66">
+      <data key="d0">crosspost</data>
+      <data key="d1">Drunken self portrai...</data>
+      <data key="d6">Drunken self portrait, Port Blair (Andaman Islands), Lighthouse bar, 10 PM. Two beers down.</data>
+      <data key="d7">killevilfoetus</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gwik3s_1gwveh3">
+      <data key="d0">crosspost</data>
+      <data key="d1">Rally at the Supreme...</data>
+      <data key="d6">Rally at the Supreme Court for Trans Rights</data>
+      <data key="d7">[deleted]</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gvxy5h_1gwtoa7">
+      <data key="d0">crosspost</data>
+      <data key="d1">An anti-fascist arre...</data>
+      <data key="d6">An anti-fascist arrested in France to be deported to Hungary where he may face up to 16 years of prison. #FreeGino</data>
+      <data key="d7">jendestan</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gx3em0_1gx3eui">
+      <data key="d0">crosspost</data>
+      <data key="d1">We've reprinted 5000...</data>
+      <data key="d6">We've reprinted 5000 more of the sticker version of our Gender Self-Determination design. We've already sent 10,000 of these stickers out with orders. Fight gender fascism!</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1grk7oc_1gwnowc">
+      <data key="d0">crosspost</data>
+      <data key="d1">Gender is a Weapon: ...</data>
+      <data key="d6">Gender is a Weapon: Coercion, domination and self-determination | Sally Darity</data>
+      <data key="d7">AnarchaMorrigan</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gw666z_1gw66g6">
+      <data key="d0">crosspost</data>
+      <data key="d1">A chronology of resi...</data>
+      <data key="d6">A chronology of resistance and direct action under the first Trump administration.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gvgplg_1gvgpto">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Case for Resista...</data>
+      <data key="d6">The Case for Resistance: What We’re Up Against—and What It Could Look Like to Fight 🏴</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1guorgs_1guorun">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Ex-Worker Podcas...</data>
+      <data key="d6">The Ex-Worker Podcast, episode #107—The Eye of Every Storm: How have anarchists responded to Hurricane Helene? What lessons can they offer us about how to prepare for the disasters to come?</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gudw7r_1gudwk4">
+      <data key="d0">crosspost</data>
+      <data key="d1">If we let Donald Tru...</data>
+      <data key="d6">If we let Donald Trump and Stephen Miller expand the infrastructure of state violence, involving the military and building "vast holding facilities," they will not stop at deporting undocumented immigrants.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1grhhm0_1grhias">
+      <data key="d0">crosspost</data>
+      <data key="d1">Get off X/Twitter! W...</data>
+      <data key="d6">Get off X/Twitter! When you use X/Twitter, you grant a far-right billionaire the role of moderator in every discussion. You contribute to the illusion that X/Twitter is a public square, when in fact, it is a means of surveillance and control that directly serves an incoming authoritarian government.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1grdton_1grdtug">
+      <data key="d0">crosspost</data>
+      <data key="d1">We've prepared a zin...</data>
+      <data key="d6">We've prepared a zine version of "The Eye of Every Storm," in which an anarchist involved in longstanding disaster response efforts in Appalachia recounts the lessons they learned in the course of responding to Hurricane Helene and offers advice about how to get ready for the disasters to come.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1grchqe_1grchxa">
+      <data key="d0">crosspost</data>
+      <data key="d1">We've prepared a zin...</data>
+      <data key="d6">We've prepared a zine version of our text "History Repeats Itself: First as Farce, Then as Tragedy," exploring why the Democrats are responsible for Donald Trump's return to power and what we have to do to regain the initiative.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gqok6z_1gqokmq">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Eye of Every Sto...</data>
+      <data key="d6">The Eye of Every Storm: Anarchist Response to Hurricane Helene</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gpigv4_1gq0ef6">
+      <data key="d0">crosspost</data>
+      <data key="d1">The Dawn of Anarchis...</data>
+      <data key="d6">The Dawn of Anarchism: A new IAN pamphlet</data>
+      <data key="d7">ConorKostick</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gp00dt_1gp646u">
+      <data key="d0">crosspost</data>
+      <data key="d1">Trans kids need you ...</data>
+      <data key="d6">Trans kids need you - The Johns Hopkins News-Letter</data>
+      <data key="d7">[deleted]</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gnqslj_1gp6btk">
+      <data key="d0">crosspost</data>
+      <data key="d1">Warm lines that don'...</data>
+      <data key="d6">Warm lines that don't call the v police</data>
+      <data key="d7">[deleted]</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gpe123_1gpe16v">
+      <data key="d0">crosspost</data>
+      <data key="d1">A few months ago, th...</data>
+      <data key="d6">A few months ago, the conservative party came to power in Valencia, Spain with the support of the far right. One of their first acts was to eliminate climate emergency services. At the end of October, flooding exacerbated by climate change killed over 200 people in the region.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1goj7cx_1goj7lf">
+      <data key="d0">crosspost</data>
+      <data key="d1">This is a good time ...</data>
+      <data key="d6">This is a good time to make sure that everyone in your broader community is using Signal. This flier offers QR codes to make it easy. </data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1go62tx_1go635c">
+      <data key="d0">crosspost</data>
+      <data key="d1">How to Organize an A...</data>
+      <data key="d6">How to Organize an Assembly: Preparing to Respond in an Era of Disasters and Despotism</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gnj01a_1gnj0d0">
+      <data key="d0">crosspost</data>
+      <data key="d1">The fact that an asp...</data>
+      <data key="d6">The fact that an aspiring autocrat has won an election does not oblige us to submit to him. No one should excuse being complicit in tyranny on the grounds that other people voted for it.</data>
+      <data key="d7">CrimethInc-Ex-Worker</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="cp_1gly7he_1gly7v0">
+      <data key="d0">crosspost</data>
+      <data key="d1">Looking for reading ...</data>
+      <data key="d6">Looking for reading resources</data>
+      <data key="d7">Tweedledee72</data>
+      <data key="d5">5</data>
+    </node>
+    <edge source="cp_1hp67n4_1hp67u1" target="sub_democrats">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hp67n4_1hp67u1" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hkrkuf_1hkrl04" target="sub_democrats">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hkrkuf_1hkrl04" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hh0bxf_1hh0c7n" target="sub_democrats">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hh0bxf_1hh0c7n" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gjpewh_1gjpnxd" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gjpewh_1gjpnxd" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gg2nds_1gg2nsi" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gg2nds_1gg2nsi" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gelfyh_1gelgd4" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gelfyh_1gelgd4" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1g20n6b_1g20oev" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1g20n6b_1g20oev" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1frphmq_1frphzj" target="sub_democrats">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1frphmq_1frphzj" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1fohdha_1fohfup" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1fohdha_1fohfup" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1fi3642_1fi3is9" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1fi3642_1fi3is9" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1fef5lt_1fef9wy" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1fef5lt_1fef9wy" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1fe9cjb_1fe9dw5" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1fe9cjb_1fe9dw5" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1f93tby_1f95v9x" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1f93tby_1f95v9x" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1f85wp7_1f85xeo" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1f85wp7_1f85xeo" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1f7n9oe_1f7na7x" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1f7n9oe_1f7na7x" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1f5tkyq_1f5tlnm" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1f5tkyq_1f5tlnm" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ezh6mt_1ezh6uj" target="sub_democrats">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ezh6mt_1ezh6uj" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ex6nw4_1ex7008" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ex6nw4_1ex7008" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1eosi4o_1eosicj" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1eosi4o_1eosicj" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1enze4e_1enzeq5" target="sub_TimWalz">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1enze4e_1enzeq5" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1eljhxr_1eljjaa" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1eljhxr_1eljjaa" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1elha8l_1elhblx" target="sub_TimWalz">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1elha8l_1elhblx" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ek37ss_1ek3aiu" target="sub_markkelly">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ek37ss_1ek3aiu" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ei5gka_1ei5inn" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ei5gka_1ei5inn" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1eh6waj_1eh6xll" target="sub_markkelly">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1eh6waj_1eh6xll" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1efgz98_1efgzzp" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1efgz98_1efgzzp" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1edf7w4_1edfae8" target="sub_markkelly">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1edf7w4_1edfae8" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ecky9a_1eckyd4" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ecky9a_1eckyd4" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ec98ec_1ec98w5" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ec98ec_1ec98w5" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1eaz76h_1eaz7b7" target="sub_KamalaHarris">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1eaz76h_1eaz7b7" target="sub_Liberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iglkrz_1igojfi" target="sub_de_YIMBY">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iglkrz_1igojfi" target="sub_neoliberal">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iid5gr_1iidl29" target="sub_Conservative">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iid5gr_1iidl29" target="sub_Republican">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iqf89i_1ir6wdi" target="sub_militant">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iqf89i_1ir6wdi" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iq0znv_1iq4vln" target="sub_Futurology">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iq0znv_1iq4vln" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iq0i5m_1iq0lqc" target="sub_InformedTankie">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iq0i5m_1iq0lqc" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ipeqx7_1ipyj80" target="sub_Ohio">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ipeqx7_1ipyj80" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ipj7z3_1ipjymw" target="sub_WorkersStrikeBack">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ipj7z3_1ipjymw" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iob4hn_1iokyca" target="sub_Sino">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iob4hn_1iokyca" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iodpo7_1iodrfc" target="sub_Yemen">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iodpo7_1iodrfc" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1inqlor_1inqmmh" target="sub_lostgeneration">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1inqlor_1inqmmh" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1inhrpw_1inhssa" target="sub_InternationalNews">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1inhrpw_1inhssa" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1in1lqr_1in1vhq" target="sub_WorkersStrikeBack">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1in1lqr_1in1vhq" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1imxs0m_1imxwv0" target="sub_WorkersStrikeBack">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1imxs0m_1imxwv0" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1im6m78_1im6mdh" target="sub_theIrishleft">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1im6m78_1im6mdh" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1im4ctp_1im4g3m" target="sub_InformedTankie">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1im4ctp_1im4g3m" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ikv97k_1ikxzwd" target="sub_Syndicalism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ikv97k_1ikxzwd" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ikgl6i_1ikhzb3" target="sub_IsraelCrimes">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ikgl6i_1ikhzb3" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1f86wqk_1ijk140" target="sub_Panarab">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1f86wqk_1ijk140" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iifo0g_1iifo7n" target="sub_BlackAllianceforPeace">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iifo0g_1iifo7n" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iia4zo_1iia97v" target="sub_InformedTankie">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iia4zo_1iia97v" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ig9ifi_1igwuci" target="sub_IWWeducationworkers">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ig9ifi_1igwuci" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1igt5jl_1igu92g" target="sub_MarxistCulture">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1igt5jl_1igu92g" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ifywrl_1ig6yjl" target="sub_RadicalFeminism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ifywrl_1ig6yjl" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ifo8my_1ifotf9" target="sub_politics">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ifo8my_1ifotf9" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_15dewia_1ifc2it" target="sub_Socialism_101">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_15dewia_1ifc2it" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1if6ap6_1if6x3q" target="sub_InformedTankie">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1if6ap6_1if6x3q" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iep63t_1iep6ki" target="sub_BlackAllianceforPeace">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iep63t_1iep6ki" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iej5ut_1iektqk" target="sub_NewsHub">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iej5ut_1iektqk" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ie7udi_1ie8giv" target="sub_fight_disinformation">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ie7udi_1ie8giv" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1idnnfp_1ids7jr" target="sub_suppressed_news">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1idnnfp_1ids7jr" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1icweio_1id718c" target="sub_suppressed_news">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1icweio_1id718c" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1id35zh_1id6kks" target="sub_Britain">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1id35zh_1id6kks" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1icb9cm_1iclz0k" target="sub_TheDeprogram">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1icb9cm_1iclz0k" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1icfub8_1icldrg" target="sub_texas">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1icfub8_1icldrg" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1icaq6n_1icbf65" target="sub_suppressed_news">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1icaq6n_1icbf65" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ic649h_1ic650z" target="sub_IWW">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ic649h_1ic650z" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ic5zlu_1ic608w" target="sub_BlackAllianceforPeace">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ic5zlu_1ic608w" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ibdrzn_1ibexnw" target="sub_PunkMemes">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ibdrzn_1ibexnw" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iao089_1iapswb" target="sub_Socialism_101">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iao089_1iapswb" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i97d54_1i97ewg" target="sub_communismo">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i97d54_1i97ewg" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i8g67n_1i8gcrf" target="sub_LateStageCapitalism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i8g67n_1i8gcrf" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i7eawj_1i7m6hu" target="sub_interestingasfuck">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i7eawj_1i7m6hu" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i5q3k9_1i777ug" target="sub_TarihiSeyler">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i5q3k9_1i777ug" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1529kvs_1i6uwof" target="sub_nextfuckinglevel">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1529kvs_1i6uwof" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i60n4l_1i60tfq" target="sub_leftist">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i60n4l_1i60tfq" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i5yvnz_1i5z0nc" target="sub_BlackRadicalTradition">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i5yvnz_1i5z0nc" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i4uqix_1i5nz3k" target="sub_Palestine">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i4uqix_1i5nz3k" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i4m19k_1i4m1dk" target="sub_canadaleft">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i4m19k_1i4m1dk" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i48ck7_1i4blv6" target="sub_Socialism_101">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i48ck7_1i4blv6" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i2oxzm_1i2oynz" target="sub_BlackAllianceforPeace">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i2oxzm_1i2oynz" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i2e9km_1i2isq5" target="sub_LeopardsAteMyFace">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i2e9km_1i2isq5" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h5uksv_1i1to97" target="sub_MarxistCulture">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h5uksv_1i1to97" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i1adrm_1i1col5" target="sub_Panarab">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i1adrm_1i1col5" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i0kxji_1i10a6k" target="sub_Panarab">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i0kxji_1i10a6k" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i0q0jf_1i0qri5" target="sub_Palestine">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i0q0jf_1i0qri5" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hzzp5q_1hzzv89" target="sub_communism101">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hzzp5q_1hzzv89" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hzvqbn_1hzvsvv" target="sub_MarxistCulture">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hzvqbn_1hzvsvv" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hyu534_1hzhy7n" target="sub_Panarab">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hyu534_1hzhy7n" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hz9uj4_1hza0iv" target="sub_MapPorn">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hz9uj4_1hza0iv" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hwur17_1hz2dqr" target="sub_IWW">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hwur17_1hz2dqr" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hwonkq_1hyks58" target="sub_AutisticUnion">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hwonkq_1hyks58" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hylddx_1hymzi1" target="sub_mildlyinfuriating">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hylddx_1hymzi1" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hy7ay2_1hybv76" target="sub_worldnews">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hy7ay2_1hybv76" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hwqufj_1hy5sl0" target="sub_ireland">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hwqufj_1hy5sl0" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hxelax_1hy14lm" target="sub_theIrishleft">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hxelax_1hy14lm" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hxrk6j_1hxymja" target="sub_todayilearned">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hxrk6j_1hxymja" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hxhzw9_1hxi0rk" target="sub_BlackAllianceforPeace">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hxhzw9_1hxi0rk" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1f86wqk_1hwe1zk" target="sub_Panarab">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1f86wqk_1hwe1zk" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hw382m_1hw43h5" target="sub_nba">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hw382m_1hw43h5" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hstcl5_1ht4u1r" target="sub_bayarea">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hstcl5_1ht4u1r" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hst4iu_1hst54f" target="sub_canadaleft">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hst4iu_1hst54f" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hs00eo_1hs1jld" target="sub_solarpunk">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hs00eo_1hs1jld" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hpnfx2_1hptbo9" target="sub_LateStageCapitalism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hpnfx2_1hptbo9" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hpd7b0_1hple66" target="sub_chomsky">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hpd7b0_1hple66" target="sub_socialism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1irrbvc_1irrceg" target="sub_Communalists">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1irrbvc_1irrceg" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1irnx25_1irnxvd" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1irnx25_1irnxvd" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ir8x47_1irge0r" target="sub_transgenderau">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ir8x47_1irge0r" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1irhy9j_1irhyik" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1irhy9j_1irhyik" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ir7d17_1ir7d7c" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ir7d17_1ir7d7c" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iqcolp_1iqj3pa" target="sub_dsa">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iqcolp_1iqj3pa" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iqcs6e_1iqctnj" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iqcs6e_1iqctnj" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ipihia_1ipil6m" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ipihia_1ipil6m" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ip61z2_1ip94n5" target="sub_abolishwhiteness">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ip61z2_1ip94n5" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ip2fhd_1ip2foo" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ip2fhd_1ip2foo" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iooxe1_1iooxrb" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iooxe1_1iooxrb" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1io43tl_1iokkxo" target="sub_MadLiberationFront">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1io43tl_1iokkxo" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1inzhde_1iohob9" target="sub_LibertarianLeft">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1inzhde_1iohob9" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iof2ku_1iof2q1" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iof2ku_1iof2q1" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1inm7mf_1inpa41" target="sub_DirectAction">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1inm7mf_1inpa41" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1incpw7_1incq5t" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1incpw7_1incq5t" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1imroog_1imrp35" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1imroog_1imrp35" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1imaw84_1imayff" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1imaw84_1imayff" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1im0os4_1im0oz6" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1im0os4_1im0oz6" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ilknx3_1ilkog9" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ilknx3_1ilkog9" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ik4jkq_1ik4key" target="sub_CanadianAnarchism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ik4jkq_1ik4key" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ijzwso_1ijzxps" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ijzwso_1ijzxps" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ijsvkh_1ijsxu4" target="sub_Anarchy101">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ijsvkh_1ijsxu4" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ijpkmc_1ijpkqk" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ijpkmc_1ijpkqk" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ij9exh_1ijebav" target="sub_50501">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ij9exh_1ijebav" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ij8gg1_1ij8kp5" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ij8gg1_1ij8kp5" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ihl7a3_1ij57lk" target="sub_leftist">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ihl7a3_1ij57lk" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iitwlx_1iitwup" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iitwlx_1iitwup" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iia63p_1iia6h2" target="sub_u_VoluntaryViola">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iia63p_1iia6h2" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iifacn_1iifayq" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iifacn_1iifayq" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iglj13_1ii1bcu" target="sub_WitchesVsPatriarchy">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iglj13_1ii1bcu" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ihhwxy_1ihloav" target="sub_MadLiberationFront">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ihhwxy_1ihloav" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ih0rm0_1ih0sbp" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ih0rm0_1ih0sbp" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ih1sut_1ih1ty1" target="sub_Leftist_Concepts">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ih1sut_1ih1ty1" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ih20d5_1ih20h3" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ih20d5_1ih20h3" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ih0rbx_1ih0rjp" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ih0rbx_1ih0rjp" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ignkgk_1igvcqa" target="sub_Truckers">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ignkgk_1igvcqa" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1igsd0h_1iguhuk" target="sub_50501">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1igsd0h_1iguhuk" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ig6fmz_1igcifc" target="sub_illinois">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ig6fmz_1igcifc" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ifptk5_1ig7caw" target="sub_AntifascistsofReddit">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ifptk5_1ig7caw" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ifzucm_1ifzui3" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ifzucm_1ifzui3" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ifli33_1iflih2" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ifli33_1iflih2" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1idz3vo_1iek5lz" target="sub_LandlordLove">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1idz3vo_1iek5lz" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ichjmh_1ichjrl" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ichjmh_1ichjrl" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ic5i74_1iccyi3" target="sub_technology">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ic5i74_1iccyi3" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ic86tz_1ic879p" target="sub_DemocraticSocialism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ic86tz_1ic879p" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1icbbt1_1icbdn1" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1icbbt1_1icbdn1" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iavyz1_1ibun82" target="sub_prochoice">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iavyz1_1ibun82" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ibrxda_1ibsmot" target="sub_behindthebastards">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ibrxda_1ibsmot" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i93t8s_1ibfs4o" target="sub_chaoticgood">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i93t8s_1ibfs4o" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ibdrzn_1ibexwd" target="sub_PunkMemes">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ibdrzn_1ibexwd" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ib9wld_1ibbu36" target="sub_WorkersStrikeBack">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ib9wld_1ibbu36" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1iasdel_1iasdsq" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1iasdel_1iasdsq" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i8hro3_1i9xc7s" target="sub_angryeducationworkers">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i8hro3_1i9xc7s" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i8frfh_1i9mjnn" target="sub_MapPorn">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i8frfh_1i9mjnn" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i9esja_1i9ess0" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i9esja_1i9ess0" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i9571e_1i962lc" target="sub_pics">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i9571e_1i962lc" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i8h9ok_1i8hbvd" target="sub_CanadianAnarchism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i8h9ok_1i8hbvd" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i8bffw_1i8bfwb" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i8bffw_1i8bfwb" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i7ebov_1i7zqyj" target="sub_Anticonsumption">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i7ebov_1i7zqyj" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i7h7cy_1i7kaeh" target="sub_TwoXPreppers">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i7h7cy_1i7kaeh" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i6csbj_1i6d29h" target="sub_GenZhukov2024">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i6csbj_1i6d29h" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i4asxa_1i4jyve" target="sub_BreadTube">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i4asxa_1i4jyve" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i3x3qq_1i3x3yq" target="sub_CanadianAnarchism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i3x3qq_1i3x3yq" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i3lobl_1i3losr" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i3lobl_1i3losr" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1i041oh_1i0422x" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1i041oh_1i0422x" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hz58n2_1hzazjg" target="sub_SocialistRA">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hz58n2_1hzazjg" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hwur17_1hz2dwx" target="sub_IWW">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hwur17_1hz2dwx" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hy8z8k_1hya2nf" target="sub_poland">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hy8z8k_1hya2nf" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hxyr70_1hxyrfk" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hxyr70_1hxyrfk" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hx7k6h_1hx7kdf" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hx7k6h_1hx7kdf" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hwfg33_1hwfk3n" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hwfg33_1hwfk3n" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hudona_1hvqom6" target="sub_HistoryHub">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hudona_1hvqom6" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1htreh8_1htujg5" target="sub_SocialistRA">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1htreh8_1htujg5" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1htocpc_1htod27" target="sub_Anarchy101">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1htocpc_1htod27" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1ht9mus_1ht9n0x" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1ht9mus_1ht9n0x" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hrhw54_1hrhwd6" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hrhw54_1hrhwd6" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hqcrq6_1hqcttl" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hqcrq6_1hqcttl" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hoq0sn_1hoq0vh" target="sub_anarchocommunism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hoq0sn_1hoq0vh" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hofnkc_1hoj10a" target="sub_Palestine">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hofnkc_1hoj10a" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hmycvz_1hmyd8t" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hmycvz_1hmyd8t" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hl63vf_1hl6454" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hl63vf_1hl6454" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hl5n8q_1hl5nn4" target="sub_Anarchopunks">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hl5n8q_1hl5nn4" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hkuulk_1hkwlab" target="sub_FreeLuigi">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hkuulk_1hkwlab" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hj5neu_1hkaeqs" target="sub_GeorgeCarlin">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hj5neu_1hkaeqs" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hjnd33_1hjnvpg" target="sub_SomaliSocialism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hjnd33_1hjnvpg" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hib4co_1hib5cr" target="sub_IronFrontUSA">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hib4co_1hib5cr" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hhsk37_1hhskao" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hhsk37_1hhskao" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hevcos_1hg6j1v" target="sub_Queerdefensefront">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hevcos_1hg6j1v" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hf5ru3_1hf5s2e" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hf5ru3_1hf5s2e" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hdsksy_1he59o8" target="sub_HistoryHub">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hdsksy_1he59o8" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hdrixo_1he3166" target="sub_pics">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hdrixo_1he3166" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hdoho0_1hdw1dq" target="sub_news">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hdoho0_1hdw1dq" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hdkxe0_1hdkxlx" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hdkxe0_1hdkxlx" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1hc5p1e_1hc5p8m" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1hc5p1e_1hc5p8m" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h8vb2o_1haxm6r" target="sub_CommunalistLibrary">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h8vb2o_1haxm6r" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h9ufkq_1ha88y9" target="sub_prochoice">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h9ufkq_1ha88y9" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h9mgt4_1h9q17y" target="sub_GenZhukov2024">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h9mgt4_1h9q17y" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h8lvcd_1h8v3qp" target="sub_Situationism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h8lvcd_1h8v3qp" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h7w4y9_1h7w543" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h7w4y9_1h7w543" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h6xh6k_1h6xhep" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h6xh6k_1h6xhep" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h6bpu2_1h6bpxm" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h6bpu2_1h6bpxm" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h5jhsq_1h5jhxd" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h5jhsq_1h5jhxd" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h5bw89_1h5bwm2" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h5bw89_1h5bwm2" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h3iwct_1h3iwi9" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h3iwct_1h3iwi9" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h1rrt5_1h1rry7" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h1rrt5_1h1rry7" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h1dhlp_1h1dht1" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h1dhlp_1h1dht1" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h0pqiz_1h0pqqe" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h0pqiz_1h0pqqe" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1h01j29_1h01ja5" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1h01j29_1h01ja5" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gzu3ww_1gzu44b" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gzu3ww_1gzu44b" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gyn3m4_1gynws0" target="sub_anarchocommunism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gyn3m4_1gynws0" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gxt6bh_1gxt6h4" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gxt6bh_1gxt6h4" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gwnxpx_1gwyv66" target="sub_kolkata">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gwnxpx_1gwyv66" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gwik3s_1gwveh3" target="sub_lgbt">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gwik3s_1gwveh3" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gvxy5h_1gwtoa7" target="sub_AntifascistsofReddit">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gvxy5h_1gwtoa7" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gx3em0_1gx3eui" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gx3em0_1gx3eui" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1grk7oc_1gwnowc" target="sub_anarchafeminism">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1grk7oc_1gwnowc" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gw666z_1gw66g6" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gw666z_1gw66g6" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gvgplg_1gvgpto" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gvgplg_1gvgpto" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1guorgs_1guorun" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1guorgs_1guorun" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gudw7r_1gudwk4" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gudw7r_1gudwk4" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1grhhm0_1grhias" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1grhhm0_1grhias" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1grdton_1grdtug" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1grdton_1grdtug" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1grchqe_1grchxa" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1grchqe_1grchxa" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gqok6z_1gqokmq" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gqok6z_1gqokmq" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gpigv4_1gq0ef6" target="sub_IrishAnarchists">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gpigv4_1gq0ef6" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gp00dt_1gp646u" target="sub_lgbt">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gp00dt_1gp646u" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gnqslj_1gp6btk" target="sub_lgbt">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gnqslj_1gp6btk" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gpe123_1gpe16v" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gpe123_1gpe16v" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1goj7cx_1goj7lf" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1goj7cx_1goj7lf" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1go62tx_1go635c" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1go62tx_1go635c" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gnj01a_1gnj0d0" target="sub_CrimethInc">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gnj01a_1gnj0d0" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+    <edge source="cp_1gly7he_1gly7v0" target="sub_YouthRights">
+      <data key="d8">from_subreddit</data>
+    </edge>
+    <edge source="cp_1gly7he_1gly7v0" target="sub_Anarchism">
+      <data key="d8">to_subreddit</data>
+    </edge>
+  </graph>
+</graphml>

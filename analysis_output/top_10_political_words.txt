@@ -1,0 +1,10 @@
+Trump: 2530
+Democrats: 305
+Musk: 171
+Biden: 167
+Republicans: 146
+Republican: 129
+GOP: 125
+socialism: 96
+socialist: 95
+MAGA: 81
